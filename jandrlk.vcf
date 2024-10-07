@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Drlík;Jan;;;
+FN:Jan Drlík
+ORG:
+ADR;TYPE=WORK:
+TITLE:
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:j.drlik@proton.me
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Signal:https://signal.me/#p/+420723220330
+URL;TYPE=LinkedIn:https://linkedin.com/in/jdrlik
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100018173
+END:VCARD
